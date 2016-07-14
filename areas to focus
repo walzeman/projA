@@ -1,0 +1,39 @@
+
+	Areas to focus
+==============================
+	-- testing: JUnit, Mackiato
+	-- SDLC
+	-- Threading
+	-- Problem Solving
+	-- Collection
+	-- Web Services
+	-- Java8 Vs Java7
+	-- String Manuplation
+	-- Object Reference: Cloning, Shollowing
+	-- Memory Management
+	-- JDBC
+	-- Design Pattern
+	-- Debugging (compiler)
+	-- Framework (Spring/Hibernate)
+
+	  Job boards             pw
+	==============          ====  
+	1. Monster		walzeman4
+	2. Dice
+	3. CyberCoders
+	4. ZipRecruiter
+	5. Indeed
+	6. CareerBuilder      Walzeman4
+	7. 
+
+
+
+Object Oriented Design Principles:
+ -- SOLID Principle :-
+ 
+		1    S – Single-responsiblity principle
+		2    O – Open-closed principle
+		3    L – Liskov substitution principle
+		4    I – Interface segregation principle
+		5    D – Dependency Inversion Principle
+
